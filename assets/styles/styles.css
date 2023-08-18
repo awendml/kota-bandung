@@ -98,10 +98,23 @@ aside {
     width: 100%;
     padding: 0;
   }
-}
+   section table {
+      text-align: left;
+      margin-left: auto;
+      margin-right: auto;
+   }
+   section table td{
+      text-align: right;
+   }
+   section h3{
+      text-align: center;
+      margin-left: auto;
+      margin-right: auto;
+   }
 
 header {
    display: inline;
+}
 }
 
 
