@@ -1,3 +1,3 @@
 # Kota Bandung
 
-kota-bandung-awen.surge.sh
+https://kota-bandung-awen.surge.sh
